@@ -1,0 +1,30 @@
+Breast Cancer Classification:
+
+
+There are two types of Tumor:
+1. Bengin Tumor
+2. Malignant Tumor
+
+1. Bengin Tumor - Non Cancerous
+                  Slow growing
+
+2. Malignant Tumor - Cancerous
+                     Fast growing
+
+
+Dataset:
+
+Our dataset contains a column name as "Diagnosis"
+where 0 represents - Malignant Tumor 
+      1 represents - Bengin Tumor
+
+
+Work-Flow:
+
+1. Dataset/Data collection
+2. Data pre processing
+3. Spliting Data into Test, Train
+4. Logistic Regression model (best for binarry classification)
+5. Test model with new data
+6. Evaluate
+7. Result
